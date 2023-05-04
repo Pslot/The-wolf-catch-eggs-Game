@@ -144,3 +144,6 @@ print("\033[1;37;40m" + "Game over!" + "\033[0m")
 print(f"\033[1;37;40mYour score: {score}\033[0m")
 print(f"\033[1;37;40mBest score: {best_score}\033[0m")
 print("\033[1;37;40m" + "-" * 30 + "\033[0m")
+
+
+# I want you to note that this code includes styling and colored output, so it may not work on all terminals.
